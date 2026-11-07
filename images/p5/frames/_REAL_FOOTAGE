@@ -1,0 +1,5 @@
+source: /Users/kushalmukherjee/Documents/MTECH/DIP/Assignments/DIP_Assignment_1/images/p5/video1.mp4
+window: frames 276..323
+fractional alpha: nan%
+backing chroma std: nan
+Delete this file to let build_assets.py regenerate synthetic frames again.

@@ -1,0 +1,5 @@
+.DS_Store
+*.zip
+DIP_A1_2025201072_standalone/
+.ipynb_checkpoints/
+__pycache__/
